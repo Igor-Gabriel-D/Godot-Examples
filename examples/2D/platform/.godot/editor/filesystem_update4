@@ -1,4 +1,2 @@
-res://scenes/player.tscn
 res://scenes/main.tscn
-res://scenes/platform.tscn
 res://scripts/player.gd
