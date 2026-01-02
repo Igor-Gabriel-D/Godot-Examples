@@ -13,6 +13,11 @@ var dash_direction: Vector2 = Vector2.RIGHT
 var dash_timer := 0.0
 var is_dashing := false
 
+var points = 0;
+
+func add_points(val: int):
+	print("points: %d" % val)
+	points += val
 
 func _physics_process(delta: float) -> void:
 	# =========================
