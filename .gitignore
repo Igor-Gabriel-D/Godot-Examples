@@ -1,0 +1,5 @@
+examples/2D/**/.godot/
+examples/3D/**/.godot/
+
+examples/2D/**/.import/
+examples/3D/**/.import/
