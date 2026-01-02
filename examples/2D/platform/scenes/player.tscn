@@ -14,3 +14,9 @@ texture = ExtResource("1_3vyb7")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("RectangleShape2D_g2els")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+limit_left = -720
+limit_right = 720
+position_smoothing_enabled = true
+rotation_smoothing_enabled = true

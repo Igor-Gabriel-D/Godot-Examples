@@ -12,5 +12,8 @@ position = Vector2(360, 240)
 [node name="Platform" parent="." instance=ExtResource("2_0wfyh")]
 position = Vector2(360, 402)
 
+[node name="Platform2" parent="." instance=ExtResource("2_0wfyh")]
+position = Vector2(700, 402)
+
 [node name="coin" parent="." instance=ExtResource("3_sugp2")]
 position = Vector2(173, 200)
